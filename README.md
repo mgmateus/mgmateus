@@ -24,19 +24,19 @@
 
 ### UAV - Indoor Visual Navigation: Latin American Robo Cup
 
-Brief description of Project 2. A mobile application for...
+For the implementation of navigation, a package was developed to interface with the Mavros in order to send commands to the vehicle, allowing it to have intelligence and operate autonomously. A mission planner was developed to send commands and get the status of the vehicle. Complementary packages were also developed to carry out the inspection of the environment to run on the Jetson Nano board together with the <i><b>mission_planner_package</i></b>. The complementary packages are responsible for processing the vision in order to imply in the navigation of the vehicle. For each detection task performed, the search for the target and carrying out a specific action is given by processing the image collected by the Logiteh C920 camera, thus resulting in displacement changes, movement actions to demonstrate a certain task completion and visual demonstration of the processing effected.
 
-- [Demo](project-2/demo)
-- [Source Code](project-2/source-code)
-- ![Screenshot](project-2/screenshot.png)
+- [Demo](https://www.youtube.com/watch?v=rzX5oBiEjqc)
+- [Source Code](https://github.com/Fbot-Hydrone/LARC)
+ <img src="https://github.com/mgmateus/mgmateus/blob/main/larc.png" alt="drawing" align="center" width="1000" height="200"/>
 
 ### UAV - Indoor Visual Navigation: FIRA RoboWorld Cup
 
-Brief description of Project 2. A mobile application for...
+Para a implementação da navegação, um pacote foi desenvolvido para interagir com o Mavros a fim de enviar comandos ao veículo, permitindo que ele possua inteligência e opere autonomamente. Um planejador de missões foi desenvolvido para enviar comandos e obter o status do veículo. Pacotes complementares também foram desenvolvidos para realizar a inspeção do ambiente para operar na placa Jetson Nano juntamente com o <i><b>mission_planner_package</i></b>. Os pacotes complementares são responsáveis pelo processamento da visão para influenciar na navegação do veículo. The vehicle's navigation is strictly based on reading QR codes and estimating its position through image processing and interpreting the length of the road, resembling the concept of a line follower.
 
-- [Demo](project-2/demo)
-- [Source Code](project-2/source-code)
-- ![Screenshot](project-2/screenshot.png)
+- [Demo](https://www.youtube.com/watch?v=J34tv3Y6qD4)
+- [Source Code](https://github.com/Fbot-Hydrone/fira-germany)
+ <img src="https://github.com/mgmateus/mgmateus/blob/main/fira.png" alt="drawing" align="center" width="1000" height="200"/>
 
 ### UAV - Autonomous Land
 
@@ -46,7 +46,7 @@ This approach involves the characterization of active perception, focusing parti
 
 - [Demo](https://youtu.be/1B24f8Q3Eyg)
 - [Source Code](https://github.com/mgmateus/ddpg_land)
-- ![Screenshot](https://github.com/mgmateus/mgmateus/blob/main/land.png)
+ <img src="https://github.com/mgmateus/mgmateus/blob/main/lars.png" alt="drawing" align="center" width="600" height="300"/>
 
 ...
 
