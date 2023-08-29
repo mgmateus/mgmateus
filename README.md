@@ -2,25 +2,13 @@
 
 27 year's old, Computer Engineer and Master's Student of Computer Enginnering. Scholarship holder of PRH22-ANP, developing a air-underwater Next-Best-View Planner for inspection in large partially submerged structures, as part of a project closely tied to the development of a Hybrid Unmanned Aerial Underwater Vehicle. I am also a volunteer scholarship holder at the robotics team FBOT, which focuses on the creation of an autonomous drone for indoor tasks participation in robotics competitions.
 
-## Sections
-
-- [Projects](#projects)
-- [Skills](#skills)
-- [Experience](#experience)
-- [Education](#education)
-- [Contact](#contact)
-
 ---
 
 ## Principal Projects
 
-### Autonomous Land
+### Next-Best-View Planner
+I am currently developing a next-best-view planner for the coverage of large partially submerged structures for use in a ybrid Unmanned Aerial Underwater Vehicle.
 
-
-
-- [Demo](project-1/demo)
-- [Source Code](project-1/source-code)
-- ![Screenshot](project-1/screenshot.png)
 
 ### UAV - Indoor Visual Navigation: Latin American Robo Cup
 
@@ -36,7 +24,7 @@ Para a implementação da navegação, um pacote foi desenvolvido para interagir
 
 - [Demo](https://www.youtube.com/watch?v=J34tv3Y6qD4)
 - [Source Code](https://github.com/Fbot-Hydrone/fira-germany)
- <img src="https://github.com/mgmateus/mgmateus/blob/main/fira.png" alt="drawing" align="center" width="1000" height="200"/>
+ <img src="https://github.com/mgmateus/mgmateus/blob/main/fira.png" alt="drawing" align="center" width="600" height="300"/>
 
 ### UAV - Autonomous Land
 
@@ -46,7 +34,7 @@ This approach involves the characterization of active perception, focusing parti
 
 - [Demo](https://youtu.be/1B24f8Q3Eyg)
 - [Source Code](https://github.com/mgmateus/ddpg_land)
- <img src="https://github.com/mgmateus/mgmateus/blob/main/lars.png" alt="drawing" align="center" width="600" height="300"/>
+ <img src="https://github.com/mgmateus/mgmateus/blob/main/lars.png" alt="drawing" align="center" width="600" height="300" a=/>
 
 ...
 
@@ -54,43 +42,52 @@ This approach involves the characterization of active perception, focusing parti
 
 ## Skills
 
-- Programming Languages: Python, JavaScript, Java
-- Frameworks: React, Flask, Spring Boot
-- Tools: Git, VS Code, Docker
+- Programming Languages: Python, C++, Java, C
+- Tools: Git, Docker, ROS, Opencv, MatplotLib, Numpy, Scypi, PyTorch
 
 ---
 
-## Experience
+### Interest in
 
-### Company A
+- Robotics
+- Autonomous Navigation
+- Deep Learning
 
-- Position: Software Developer
-- Duration: January 2020 - Present
-- Description of responsibilities and achievements.
-
-### Company B
-
-- Position: Web Development Intern
-- Duration: July 2019 - December 2019
-- Description of responsibilities and learnings.
-
-...
+### Awards
+-  
+- 🥉 Competição Brasileira de Robótica - Simulation, 2021;
+- 🥉 Competição Brasileira de Robótica - São Paulo, Brazil, 2022;
+- 4º FIRA WorldCup - Wolfenbüttel, Germany, 2023;
 
 ---
 
 ## Education
 
-### XYZ University
+### Federal University of Rio Grande
 
-- Degree: Bachelor of Computer Science
-- Duration: 2016 - 2020
-- Highlights of academic achievements.
+- Master's Degree: Computer Engineering
+- Duration: 2021 - Current
+
+
+### Federal University of Rio Grande
+
+- Degree: Bachelor of Computer Engineering
+- Duration: 2018 - 2021
 
 ---
 
-## Contact
+### Contact me
+  
+<div>
+  <a href = "mailto:eng.mgmateus@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/matheus-g-mateus-1b75611b1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
 
-- Email: your.email@example.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- Other professional social media profiles.
+___
+
+<div align="left">
+  <a href="https://github.com/mgmateus">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mgmateus&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mgmateus&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
