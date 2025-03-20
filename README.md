@@ -1,6 +1,6 @@
 # Matheus Gonçalves Mateus
 
-28 year's old, Computer Engineer and Master's Student of Computer Enginnering. Scholarship holder of PRH22-ANP, developing a air-underwater Next-Best-View Planner for inspection in large partially submerged structures, as part of a project closely tied to the development of a Hybrid Unmanned Aerial Underwater Vehicle. I am also a volunteer scholarship holder at the robotics team FBOT, which focuses on the creation of an autonomous drone for indoor tasks participation in robotics competitions.
+28 year's old, Computer Engineer and Master's in Computer Enginnering. Scholarship holder of PRH22-ANP, developing a air-underwater Next-Best-View Planner for inspection in large partially submerged structures, as part of a project closely tied to the development of a Hybrid Unmanned Aerial Underwater Vehicle. I am also a volunteer scholarship holder at the robotics team FBOT, which focuses on the creation of an autonomous drone for indoor tasks participation in robotics competitions.
 
 ---
 
