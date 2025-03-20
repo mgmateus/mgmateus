@@ -66,8 +66,7 @@ This approach involves the characterization of active perception, focusing parti
 ### Federal University of Rio Grande
 
 - Master's Degree: Computer Engineering
-- Duration: 2021 - Current
-
+- Duration: 2021 - 2023
 
 ### Federal University of Rio Grande
 
